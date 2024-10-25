@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 Master's student in Distributed Systems and Artificial Intelligence at ENSET Mohammedia.  <br>💻 Passionate about software development, artificial intelligence, and distributed systems.  <br>🌱 Currently mastering **Spring Boot**, **Java**, **Angular**, and **TensorFlow** for practical AI and web solutions.  <br>🎯 Looking for internships as a **Full Stack Java Developer** or **AI Engineer** for 2025.  
+*🎓 Master's student in Distributed Systems and Artificial Intelligence at ENSET Mohammedia.  <br>💻 Passionate about software development, artificial intelligence, and distributed systems.  <br>🌱 Currently mastering **Spring Boot**, **Java**, **Angular**, and **TensorFlow** for practical AI and web solutions.  <br>🎯 Looking for internships as a **Full Stack Java Developer** or **AI Engineer** for 2025.*
 
 
 ## 🌐 Socials:
